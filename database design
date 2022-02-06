@@ -1,0 +1,3 @@
+Created a database with the name "vuejstask".
+Created two tables -> 1) categories Table 2) questions Table
+Establish a relation with these two tables using a ommon column Named as 'cid'.
